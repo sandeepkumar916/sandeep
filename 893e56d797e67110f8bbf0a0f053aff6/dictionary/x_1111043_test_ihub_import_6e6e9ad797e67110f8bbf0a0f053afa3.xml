@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="effe961b97e67110f8bbf0a0f053aff9" extends="sys_import_set_row" label="test" max_length="40" name="x_1111043_test_ihub_import_6e6e9ad797e67110f8bbf0a0f053afa3" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active until" label="Active until" max_length="40" name="u_active_until" type="glide_date"/>
+        <element attributes="import_attribute_name=HHD Identifier" label="HHD Identifier" max_length="40" name="u_hhd_identifier" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Prototype Evangelist" label="Prototype Evangelist" max_length="40" name="u_prototype_evangelist" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=System Name" label="System Name" max_length="40" name="u_system_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Unlock Code" label="Unlock Code" max_length="40" name="u_unlock_code" type="string"/>
+    </element>
+</database>

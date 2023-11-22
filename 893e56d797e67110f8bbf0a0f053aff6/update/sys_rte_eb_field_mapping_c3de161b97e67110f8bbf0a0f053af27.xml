@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="System Name">e7be521b97e67110f8bbf0a0f053af68</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 04:47:49</sys_created_on>
+        <sys_id>c3de161b97e67110f8bbf0a0f053af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test" source="x_1111043_test">893e56d797e67110f8bbf0a0f053aff6</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="test_etl_ihub">afbe9ad797e67110f8bbf0a0f053aff6</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">4fde161b97e67110f8bbf0a0f053af22</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="test">893e56d797e67110f8bbf0a0f053aff6</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_c3de161b97e67110f8bbf0a0f053af27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 04:47:49</sys_updated_on>
+        <target_sys_rte_eb_field display_value="System Name_sn_ihub_target_name">f2de161b97e67110f8bbf0a0f053af10</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

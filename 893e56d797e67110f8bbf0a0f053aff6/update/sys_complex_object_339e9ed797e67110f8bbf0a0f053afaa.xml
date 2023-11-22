@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FD7f9e9ed7a8e671107c5a4f2f48d6f3a9</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>893e56d797e67110f8bbf0a0f053aff6</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD7f9e9ed7a8e671107c5a4f2f48d6f3a9":{"u_unlock_code":"String","u_unlock_code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Unlock Code\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_state":"String","u_state.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"State\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_active_until":"String","u_active_until.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Active until\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_hhd_identifier":"Integer","u_hhd_identifier.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"HHD Identifier\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_prototype_evangelist":"String","u_prototype_evangelist.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Prototype Evangelist\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_system_name":"String","u_system_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"System Name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD7f9e9ed7a8e671107c5a4f2f48d6f3a9.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD7f9e9ed7a8e671107c5a4f2f48d6f3a9\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 04:46:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>339e9ed797e67110f8bbf0a0f053afaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD7f9e9ed7a8e671107c5a4f2f48d6f3a9</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test" source="x_1111043_test">893e56d797e67110f8bbf0a0f053aff6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">893e56d797e67110f8bbf0a0f053aff6</sys_scope>
+        <sys_update_name>sys_complex_object_339e9ed797e67110f8bbf0a0f053afaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 04:46:47</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

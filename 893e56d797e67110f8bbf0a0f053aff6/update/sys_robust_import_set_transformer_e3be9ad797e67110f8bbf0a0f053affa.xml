@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for test</description>
+        <name>test_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="test_etl_ihub">afbe9ad797e67110f8bbf0a0f053aff6</robust_transform_engine>
+        <source_table>x_1111043_test_ihub_import_6e6e9ad797e67110f8bbf0a0f053afa3</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 04:47:19</sys_created_on>
+        <sys_id>e3be9ad797e67110f8bbf0a0f053affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_rte_ihub</sys_name>
+        <sys_package display_value="test" source="x_1111043_test">893e56d797e67110f8bbf0a0f053aff6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">893e56d797e67110f8bbf0a0f053aff6</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_e3be9ad797e67110f8bbf0a0f053affa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 04:47:19</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>
